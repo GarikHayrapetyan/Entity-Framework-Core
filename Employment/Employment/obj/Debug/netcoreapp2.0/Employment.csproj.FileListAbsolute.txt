@@ -1,0 +1,11 @@
+C:\Users\Garik\source\repos\Employment\Employment\bin\Debug\netcoreapp2.0\Employment.deps.json
+C:\Users\Garik\source\repos\Employment\Employment\bin\Debug\netcoreapp2.0\Employment.runtimeconfig.json
+C:\Users\Garik\source\repos\Employment\Employment\bin\Debug\netcoreapp2.0\Employment.runtimeconfig.dev.json
+C:\Users\Garik\source\repos\Employment\Employment\bin\Debug\netcoreapp2.0\Employment.dll
+C:\Users\Garik\source\repos\Employment\Employment\bin\Debug\netcoreapp2.0\Employment.pdb
+C:\Users\Garik\source\repos\Employment\Employment\obj\Debug\netcoreapp2.0\Employment.csproj.CoreCompileInputs.cache
+C:\Users\Garik\source\repos\Employment\Employment\obj\Debug\netcoreapp2.0\Employment.AssemblyInfoInputs.cache
+C:\Users\Garik\source\repos\Employment\Employment\obj\Debug\netcoreapp2.0\Employment.AssemblyInfo.cs
+C:\Users\Garik\source\repos\Employment\Employment\obj\Debug\netcoreapp2.0\Employment.dll
+C:\Users\Garik\source\repos\Employment\Employment\obj\Debug\netcoreapp2.0\Employment.pdb
+C:\Users\Garik\source\repos\Employment\Employment\obj\Debug\netcoreapp2.0\Employment.csprojAssemblyReference.cache
